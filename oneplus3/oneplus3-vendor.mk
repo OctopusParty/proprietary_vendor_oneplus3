@@ -838,12 +838,9 @@ PRODUCT_PACKAGES += \
     TimeService \
     datastatusnotification \
     embms \
-    fastdormancy \
     shutdownlistener \
-    CNEService \
     QtiTetherService \
     com.qualcomm.location \
-    dpmserviceapp \
     qcrilmsgtunnel \
     colorservice \
     ims \
